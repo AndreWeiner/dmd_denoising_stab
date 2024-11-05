@@ -12,7 +12,7 @@ The optimization relies on automatic differentiation and gradient descent.
 
 ## Results
 
-Noise is added to snapshots of the flow past a cylinder at signal-to-noise ratios of $l\in \left\{10\%, 20\%, 40\%\right\}$.
+Noise is added to snapshots of the flow past a cylinder at signal-to-noise ratios of *l*.
 20 different trials with randomly sampled noise are performed for each variant and noise level.
 The benchmarked DMD variants are:
 
