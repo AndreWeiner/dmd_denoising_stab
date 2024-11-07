@@ -37,6 +37,14 @@ installed via *pip*:
 ```
 pip3 install git+https://github.com/FlowModelingControl/flowtorch.git@aweiner
 ```
+The notebook infers the locations of the dataset and the flowTorch installation
+from a file using [dotenv](https://pypi.org/project/python-dotenv/).
+The file should be named *.env*, it should be located in the same folder
+as the notebook, and the content should be:
+```
+FLOWTORCH_INSTALL_DIR="/path/to/flowtorch/installation"
+FLOW_DATA_DIR="/path/to/cylinder/dataset"
+```
 To get access to the snapshot data, please contact us via mail.
 
 ## Acknowledgement
