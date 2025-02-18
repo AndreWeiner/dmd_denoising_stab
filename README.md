@@ -1,6 +1,6 @@
 # An optimized DMD to identify linear dynamics in noisy flow data
 
-This code repository accompanies the article [An optimized DMD to identify linear dynamics in noisy flow data](link_to_be_added).
+This code repository accompanies the article [dynamic mode decomposition of noisy flow data](https://arxiv.org/abs/2411.04868).
 The research is part of the research unit [FOR 2895](https://www.for2895.uni-stuttgart.de/en/) on
 *Unsteady flow and interaction phenomena at High Speed Stall conditions*.
 
